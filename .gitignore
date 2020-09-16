@@ -1,0 +1,8 @@
+
+*.prefs
+*.prefs
+*.jar
+*.class
+target/*
+.settings/*
+.location
