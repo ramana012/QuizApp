@@ -4,7 +4,7 @@
 	<groupId>net.codejava</groupId>
 	<artifactId>ganiquiz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>ganiquiz</name>
 	<description></description>
 
