@@ -50,7 +50,7 @@ border-radius: 25px;
 </head>
 <body>
 <div class="topnav">
-    <h2>Quiz App</a></h2>
+    <h2>ganiquiz App</h2>
 </div>
 <div align="center">
 	
